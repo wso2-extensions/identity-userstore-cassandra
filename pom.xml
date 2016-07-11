@@ -216,8 +216,7 @@
 
     <properties>
         <!-- Identity Userstore Cassandra version -->
-        <identity.userstore.cassandra.version>${project.version}</identity.userstore.cassandra.version>
-        <identity.userstore.cassandra.exp.version>${identity.userstore.cassandra.version}</identity.userstore.cassandra.exp.version>
+        <identity.userstore.cassandra.exp.version>${project.version}</identity.userstore.cassandra.exp.version>
         <identity.userstore.cassandra.imp.pkg.version.range>[5.0.0, 6.0.0)</identity.userstore.cassandra.imp.pkg.version.range>
 
         <!-- Carbon kernel version -->
