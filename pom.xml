@@ -27,7 +27,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.wso2.carbon.identity.userstore.cassandra</groupId>
     <artifactId>identity-userstore-cassandra</artifactId>
-    <version>5.1.4-SNAPSHOT</version>
+    <version>5.1.4</version>
     <packaging>pom</packaging>
     <name>WSO2 Carbon - Cassandra based User Manager Module</name>
     <url>http://wso2.org</url>
@@ -37,7 +37,7 @@
         <developerConnection>scm:git:https://github.com/wso2-extensions/identity-userstore-cassandra.git
         </developerConnection>
         <connection>scm:git:https://github.com/wso2-extensions/identity-userstore-cassandra.git</connection>
-        <tag>HEAD</tag>
+        <tag>v5.1.4</tag>
     </scm>
 
     <modules>
